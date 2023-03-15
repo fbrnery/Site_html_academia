@@ -1,5 +1,13 @@
-body {
+.carousel-caption {
+
+  text-shadow: 0 0 0.2em black,
+    0 0 0.1em black,
+    0 0 0.1em #fff;
+  color: #fff;
+  font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
 }
+
 
 .header {
     background-color: #000;
