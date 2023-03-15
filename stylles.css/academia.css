@@ -86,3 +86,6 @@ p {
 }
 /* rtl:end:ignore */
 
+p {
+    text-align: justify;
+}
